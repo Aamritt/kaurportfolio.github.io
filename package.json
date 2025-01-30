@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "homepage": "https://aamritt.github.io/kaurportfolio.github.io"
+    "homepage": "https://aamritt.github.io"
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
