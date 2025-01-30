@@ -1,5 +1,5 @@
 {
-  "name": "https://aamritt.github.io/kaurportfolio.github.io",
+  "name": "kaurportfolio.github.io",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "homepage": "https://aamritt.github.io/kaurportfolio.github.io"
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
