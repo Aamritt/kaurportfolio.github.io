@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://aamritt.github.io/kaurportfolio.github.io",
+  "homepage": "https://aamritt.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
